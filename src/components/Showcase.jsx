@@ -6,7 +6,7 @@ const Showcase = () => {
     <section className="bg-dark p-5" id="experience">
       <div className="container text-center text-light">
         <div className="d-sm-flex align-items-center justify-content-between">
-          <div className="text-md-start pe-5">
+          <div className="text-md-start pe-md-5">
             <h1 className="">
               become a web <span className="text-warning">developer</span>
             </h1>
@@ -38,7 +38,7 @@ const Showcase = () => {
           <div className="modal-content">
             <div className="modal-header">
               <h5 className="modal-title " id="enrollLabel">
-                informations
+                card
               </h5>
               <button
                 type="button"
